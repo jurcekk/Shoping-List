@@ -56,7 +56,7 @@ Sprečen je unos namirnica sa istim imenom.
 <br />
 
 ## Lista svih namirnica
-Izlistavanje svih namirnica u bazi. Brisanje i izmena je moguća preko linkova kod namirnice
+Izlistavanje svih namirnica u bazi. Brisanje i izmena je moguća i preko linkova kod namirnice
 <img src="https://drive.google.com/uc?export=view&id=1-ThWl1aDV1cxNQpGpr_VTpPqlAuQ6RUe" />
 
 <br />
@@ -69,5 +69,5 @@ Nakon odabira namirnice pojavljuje se forma u kome se mogu menjati podaci namirn
 <br />
 
 ## Brisanje namirnica
-Brisanje se vrši na osnovi naziva namirnice
+Brisanje se vrši na osnovu naziva namirnice
 <img src="https://drive.google.com/uc?export=view&id=1-jgluNTG6QZAr3wCv44kogQPOGy31iDb" />
