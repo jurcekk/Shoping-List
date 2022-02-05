@@ -11,7 +11,7 @@ Svaka namirnica ima svoj naziv i sliku, a u kada je namirnica u listi ima i koli
 - Linkove ka drugim stranicama
 - Listu sačuvanih listi
 - Polje za pretragu namirnica unutar listi
-<img align="left" alt="glavna" src"https://drive.google.com/uc?export=view&id=1-Bjfm0sVij4dUknlRBEe343GUB8Y2ve3" />
+<img align="left" alt="glavna" src="https://drive.google.com/uc?export=view&id=1-Bjfm0sVij4dUknlRBEe343GUB8Y2ve3" />
 <br />
 
 ## Izgled stranice za dodavanje namirnica u listu
