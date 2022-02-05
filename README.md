@@ -17,6 +17,6 @@ Svaka namirnica ima svoj naziv i sliku, a u kada je namirnica u listi ima i koli
 - Listu sa unapred definisanim namirnicama
 - Lista napravljenih šoping listi
 - Količina
-[<img align="left" alt="glavna" src"https://drive.google.com/open?id=1-Mg4wNqTVUS36NiomTo_-tlPFX9gKWOW&authuser=jurcekdavid%40gmail.com&usp=drive_fs" />]
+[<img align="left" alt="dodavanje" src"https://drive.google.com/open?id=1-Mg4wNqTVUS36NiomTo_-tlPFX9gKWOW&authuser=jurcekdavid%40gmail.com&usp=drive_fs" />]
 <br />
 
