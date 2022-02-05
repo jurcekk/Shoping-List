@@ -12,7 +12,7 @@ Svaka namirnica ima svoj naziv i sliku, a u kada je namirnica u listi ima i koli
 - Polje za pretragu namirnica unutar listi
 ![image](https://drive.google.com/uc?export=view&id=1-Bjfm0sVij4dUknlRBEe343GUB8Y2ve3)
 <br>
-### Izgled stranice za dodavanje namirnica u listu
+## Izgled stranice za dodavanje namirnica u listu
 ## Sadrzi
 - Listu sa unapred definisanim namirnicama
 - Lista napravljenih šoping listi
