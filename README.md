@@ -50,13 +50,13 @@ Administrativni deo nam omogućava da unosimo/brišemo/menjamo namirnice
 <br />
 
 ## Unos nove namirnice
-
+Sprečen je unos namirnica sa istim imenom.
 <img src="https://drive.google.com/uc?export=view&id=1-TJxMCvafsizu0HDkgz8mh_vjLfbS845" />
 
 <br />
 
 ## Lista svih namirnica
-
+Izlistavanje svih namirnica u bazi. Brisanje i izmena je moguća preko linkova kod namirnice
 <img src="https://drive.google.com/uc?export=view&id=1-ThWl1aDV1cxNQpGpr_VTpPqlAuQ6RUe" />
 
 <br />
@@ -64,9 +64,10 @@ Administrativni deo nam omogućava da unosimo/brišemo/menjamo namirnice
 ## Izmena namirnice
 
 <img src="https://drive.google.com/uc?export=view&id=1-r1MdKbeEmU7XK_4SpUdxFfQj5SDNDhV" />
-
+Nakon odabira namirnice pojavljuje se forma u kome se mogu menjati podaci namirnice
+<img src="https://drive.google.com/uc?export=view&id=1-xIC9b2s4drCfqNPH91QYcZb_wMXLQ0D" />
 <br />
 
 ## Brisanje namirnica
-
+Brisanje se vrši na osnovi naziva namirnice
 <img src="https://drive.google.com/uc?export=view&id=1-jgluNTG6QZAr3wCv44kogQPOGy31iDb" />
