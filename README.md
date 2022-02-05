@@ -5,7 +5,7 @@ Drugi deo projekta iz internet tehnologija.
 Ova aplikacija omogućava pravljenje šoping listi. U šoping listi je moguće dodavati/brisati/izmeniti namirnice.
 Svaka namirnica ima svoj naziv i sliku, a u kada je namirnica u listi ima i količinu koju sami definišemo.
 
-### Izgled glavne stranice
+## Izgled glavne stranice
 ## Sadrzi
 - Linkove ka drugim stranicama
 - Listu sačuvanih listi
@@ -16,7 +16,7 @@ Svaka namirnica ima svoj naziv i sliku, a u kada je namirnica u listi ima i koli
 ## Sadrzi
 - Listu sa unapred definisanim namirnicama
 - Lista napravljenih šoping listi
-- Količina  
+- Količina
 ![image](https://drive.google.com/uc?export=view&id=1-Mg4wNqTVUS36NiomTo_-tlPFX9gKWOW)
 <br>
 
