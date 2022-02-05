@@ -2,7 +2,12 @@
 # Javni deo
 ## O aplikaciji
 Ova aplikacija omogućava pravljenje šoping listi. U šoping listi je moguće dodavati/brisati/izmeniti namirnice.
-Svaka namirnica ima svoj naziv i sliku, a u kada je namirnica u listi ima i količinu koju sami definišemo
+Svaka namirnica ima svoj naziv i sliku, a u kada je namirnica u listi ima i količinu koju sami definišemo.
+
+Tehnologije koje sam koristio:
+- PHP
+- HTML
+- CSS
 
 ## Izgled glavne stranice
 
