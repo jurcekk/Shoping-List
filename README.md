@@ -6,6 +6,7 @@ Svaka namirnica ima svoj naziv i sliku, a u kada je namirnica u listi ima i koli
 
 Tehnologije koje sam koristio:
 - PHP
+- MySQL
 - HTML
 - CSS
 
